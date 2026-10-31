@@ -27,7 +27,7 @@ The project is structured around reusable functions:
 
 The functions are used to create the moon, stars, mountains, cabin, and trees. Loops are used to draw multiple stars and create geometric shapes. The screenshot of the drawing is as below:
 
-![Example Output](night_under_the_stars.png)
+![Example Output](night.jpeg)
 
 ## How to Run
 
